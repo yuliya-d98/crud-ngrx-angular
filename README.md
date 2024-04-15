@@ -1,5 +1,6 @@
 ### [NGRX complete guide with Angular. Learn by doing simple CRUD operations](https://itnext.io/ngrx-complete-guide-with-angular-learn-by-doing-simple-crud-operations-95d1414e765d)
-### [Code on BitBucket](https://bitbucket.org/klajdiavdiaj/crud-ngrx-angular/src/master/)
+#### [Code on BitBucket](https://bitbucket.org/klajdiavdiaj/crud-ngrx-angular/src/master/)
+### [Easy Steps to Host an Angular App in GitHub Pages](https://www.syncfusion.com/blogs/post/host-angular-app-in-github-pages)
 
 # CrudNgrxAngular
 
