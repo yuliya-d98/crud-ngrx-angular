@@ -1,3 +1,6 @@
+### [NGRX complete guide with Angular. Learn by doing simple CRUD operations](https://itnext.io/ngrx-complete-guide-with-angular-learn-by-doing-simple-crud-operations-95d1414e765d)
+### [Code on BitBucket](https://bitbucket.org/klajdiavdiaj/crud-ngrx-angular/src/master/)
+
 # CrudNgrxAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.1.
