@@ -21,6 +21,7 @@
               "base": "docs",
               "browser": ""
             },
+            "baseHref": "/crud-ngrx-angular/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
